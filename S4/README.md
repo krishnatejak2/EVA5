@@ -1,7 +1,6 @@
 # Session 4
 
 ## EVA5_Session_4.ipynb
-Taken from S5 - file 1 
 
 **Network Structure**  
    
